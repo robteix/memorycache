@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard1.0</TargetFramework>
+    <PackageRequireLicenseAcceptance>False</PackageRequireLicenseAcceptance>
+    <Description>Simple implementation of a generic memory cache with support for maximum capacity and expiration based on timespan or specific moment in time.</Description>
+    <Copyright>Copyright (C) Roberto Selbach</Copyright>
+    <NeutralLanguage>en-CA</NeutralLanguage>
+    <Version>1.1.0</Version>
+    <Company>Roberto Selbach</Company>
+    <Product>Delightful Code</Product>
+    <Authors>Roberto Selbach</Authors>
+    <AssemblyVersion>1.1.0.0</AssemblyVersion>
+    <FileVersion>1.1.0.0</FileVersion>
+    <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
+  </PropertyGroup>
+
+</Project>
