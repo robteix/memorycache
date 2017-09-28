@@ -6,7 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\P7.MemoryCache\DelightfulCode.MemoryCache.csproj" />
+    <ProjectReference Include="..\DelightfulCode.MemoryCache\DelightfulCode.MemoryCache.csproj" />
   </ItemGroup>
 
 </Project>
